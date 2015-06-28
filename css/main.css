@@ -1,0 +1,15 @@
+#button-set {
+	margin:30px;
+}
+
+.btn-lg {
+	margin:20px;
+}
+
+body {
+	background-size: cover; 
+}
+
+h1 {
+	color: DarkRed;
+}
